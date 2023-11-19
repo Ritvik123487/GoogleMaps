@@ -1,3 +1,3 @@
 # GoogleMaps
-
-Currently in progress of creating the architecture for this program. Part of a project for the Univerisity of Toronto.
+Project is still in development. Project for ECE297H1 at the University of Toronto.
+According to academic guidelines, software cannot be publicly released untill course end. 
